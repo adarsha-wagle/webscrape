@@ -1,0 +1,35 @@
+matrix artifacts taxonomies about resources contribute faq blog
+
+D=F=ND"
+
+Aknowledge graph of cybersecurity countermeasures
+
+0.15.0
+ATT&CK Lookup Search D3FEND's 679 Artifacts D3FEND Lookup
+Model - Harden - Detect
+Applicati i: 7 7 Network
++ pplication Credential Message Platform File Identifier Message Traffic Platform Pre
+Hardening Hardening Hardening Hardening Analysis Analysis Analysis Analysis Monitoring = An:
+Application Biometric Message Bootloader © Dynamic — Homoglyph Sender Administrative File Da
+Configuration Authentication Authentication Authentication —_ Analysis Detection MTA Network Integrity Quer
+Hardening Reputation Activity Monitoring An
+Certificate Message Disk Emulated identifier AP@lysis Analysis
+Dead Code Pinning Encryption Encryption File Activity Firmware File
+Elimination Analysis Analysis Sender Byte Behavior 8g
+Credential Transfer Driver Load Reputation | ‘Sequence Analysis "
+Exception Rotation Agent Integrity File Identifier lyst
+Handler Authentication Checking Content Reputation Firmware In
+Pointer Credential Analysis Analysis Certificate Embedded Bran
+Validation Tranemission File Analysis Monitoring An
+Scoping Encryption File Domain ‘ode
+Pointer Content Name Active Pro
+Authentication Rules Reputation Certificate Firmware le
+Domain Trust Local File
+Policy Permissions Analysis Analysis Verification a
+Process File fe
+Segment Hashing File Hash Passive Peripheral
+be ution _Multfactor RF Shielding Reputation Certificate Firmware Pr
+Prevention uthentication Analysis Analysis Verification s
+Software Mod
+
+Cee One-time Update IP. Client-server ‘Syctam Dei
